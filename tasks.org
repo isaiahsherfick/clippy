@@ -1,0 +1,9 @@
+* TODO Display unique contents of clipboard and the number of times each one was polled by the software
+** TODO Display every key in hash table
+** TODO Display every value in hash table
+** TODO Re-draw the hashtable only when it is updated
+** TODO Ideally only redraw the parts that need redrawn (ncurses equivalent)
+* TODO Encrypt and send the data to a remote CnC service on a programmable schedule
+** TODO Encrypt the payload
+** TODO Establish connection to server
+* TODO Configuration
